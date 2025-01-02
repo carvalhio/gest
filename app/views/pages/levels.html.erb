@@ -1,0 +1,4 @@
+<h1>Escolha a Data para <%= @level %> - <%= @type %> - <%= @stage %></h1>
+<% @dates.each do |date| %>
+  <%= link_to date, exam_schedule_path(stage: @stage, type: @type, level: @level, date: date) %><br>
+<% end %>

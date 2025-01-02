@@ -1,0 +1,4 @@
+<h1>Escolha uma Etapa</h1>
+<% @stages.each do |stage| %>
+  <%= link_to stage, exam_stage_path(stage: stage) %><br>
+<% end %>

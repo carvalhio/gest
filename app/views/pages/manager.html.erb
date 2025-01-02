@@ -1,0 +1,21 @@
+<h1>Gerenciamento para <%= @date %> - <%= @level %> - <%= @type %> - <%= @stage %></h1>
+<table>
+  <thead>
+    <tr>
+      <th>Matéria</th>
+      <th>Professor</th>
+      <th>Turno</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @tests.each do |test| %>
+      <tr>
+        <td><%= test[:subject] %></td>
+        <td><%= test[:professor] %></td>
+        <td><%= test[:shift] %></td>
+        <td><%= test[:status] %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

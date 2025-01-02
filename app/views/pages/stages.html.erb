@@ -1,0 +1,4 @@
+<h1>Escolha o Tipo para <%= @stage %></h1>
+<% @types.each do |type| %>
+  <%= link_to type, exam_type_path(stage: @stage, type: type) %><br>
+<% end %>

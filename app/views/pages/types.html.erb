@@ -1,0 +1,4 @@
+﻿<h1>Escolha o Nível para <%= @type %> - <%= @stage %></h1>
+<% @levels.each do |level| %>
+  <%= link_to level, exam_level_path(stage: @stage, type: @type, level: level) %><br>
+<% end %>

@@ -1,0 +1,21 @@
+﻿<h1>Matérias para <%= @date %> - <%= @level %> - <%= @type %> - <%= @stage %></h1>
+<table>
+  <thead>
+    <tr>
+      <th>Matéria</th>
+      <th>Professor</th>
+      <th>Turno</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @subjects.each do |subject| %>
+      <tr>
+        <td><%= subject[:name] %></td>
+        <td><%= subject[:professor] %></td>
+        <td><%= subject[:shift] %></td>
+        <td><%= subject[:status] %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
