@@ -46,4 +46,24 @@
       { subject: 'História', professor: 'Júnior Alves', shift: 'Tarde', status: 'Recebido' }
     ]
   end
+
+  def levels
+  @stage = params[:stage]
+  @type = params[:type]
+  @level = params[:level]
+  @dates = ['2024-01-15'.to_date, '2024-02-20'.to_date] # Example dates
+
+  # Example subjects per date
+  @subjects = {
+    '2024-01-15'.to_date => [
+      { name: 'Matemática' },
+      { name: 'História' }
+    ],
+    '2024-02-20'.to_date => [
+      { name: 'Geografia' },
+      { name: 'Ciências' }
+    ]
+  }
+end
+
 end

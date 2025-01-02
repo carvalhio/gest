@@ -1,7 +1,20 @@
 
-<h1>Escolha a Data</h1>
-<% @dates.each do |date| %>
-  <%= link_to I18n.l(date.to_date, locale: :'pt-BR'), exam_schedule_path(stage: @stage, type: @type, level: @level, date: date) %><br>
-<% end %>
+
+
+<h3>Choose Date for <%= @level %> - <%= @type %> - <%= @stage %></h3>
+<ul>
+  <% @dates.each do |date| %>
+    <% if @subjects[date].present? %>
+      <li>
+        <%= link_to date.strftime('%d/%m/%Y'), exam_schedule_path(stage: @stage, type: @type, level: @level, date: date) %>
+        <ul>
+          <% @subjects[date].each do |subject| %>
+            <li><%= subject[:name] %></li>
+          <% end %>
+        </ul>
+      </li>
+    <% end %>
+  <% end %>
+</ul>
 
 <%= render 'shared/navigation_links' %>

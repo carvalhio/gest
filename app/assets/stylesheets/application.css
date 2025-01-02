@@ -19,8 +19,9 @@ html, body {
   height: 50px; /* Adjust as needed */
   background-color: #f8f9fa;
   text-align: center;
-  padding: 10px 0;
+  padding: 20px 0;
   border-top: 1px solid #dee2e6;
   position: relative;
   clear: both;
 }
+

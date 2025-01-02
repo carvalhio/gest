@@ -82,8 +82,7 @@
               "RelativeToolTip": "config\\application.rb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGySURBVDhPY6AI/P//H8qiEdi7dy/TgS1bhKBc4sG57m7jR4GBE99raz/\u002BJiHx7Zmb26LzHR36UGnsYM\u002BevSyz02fWvTUwePCXhQXkORT8h43t/ytLy6MHq3MCoVpQQXD1w25Gj7//ww2W/3/KIYVhwGcOhv81Ycz/hRbw/knelBYL1QYBae23k1i9//xn8ACqBWJ\u002Bl/f/pypk///DyPz/DxPj/8X2bP\u002Blp7L9Z1gGwQLLRX8UbC52AellLJ901WbWAeU977\u002Bxs4NNQwJpgrMZfpiUMiyS/A4VQQApZskvGTypFkwM/xm\u002BCnD9fgUVhwNGhn8MESHLGKLNvgPZmODjv488D/48NGDqzNc\u002BX\u002BR\u002Bw9RI/t0pqBwYuKvtZHBQPMDgyvOLIYIPGApIQIRJ5GsiT5z3PP/ZS6FCDAxrNx9icyt\u002BtpjJ899/Js8//89sMfr//zwwAIH4\u002BWmG/0IrWMH\u002BV1yl9rB6a60uVBsmiGu6VxJXtQKuGYZn7WP6b7TG7Oz0HTMkoUrBAJv3GHbv2iLDx/aUHxgOjCyMn1mYGP8w/fz/ifXNb6tL3i5\u002BmCE6lAEDAwDI9sdswhE0wAAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-01-02T14:24:52.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T14:24:52.783Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "config\\locales\\ptbr.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-02T14:24:09.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T14:24:09.353Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "config\\locales\\en.yml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-02T14:24:01.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T14:24:01.759Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "app\\assets\\stylesheets\\application.css",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-02T14:04:06.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T14:04:06.518Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "app\\views\\pages\\types.html.erb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T18:44:39.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:44:39.002Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "app\\views\\pages\\exams.html.erb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T18:42:33.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:42:33.649Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "app\\views\\pages\\levels.html.erb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T18:45:01.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:45:01.579Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "app\\views\\pages\\stages.html.erb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T18:42:55.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:42:55.355Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "app\\views\\layouts\\application.html.erb",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T18:37:01.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:37:01.882Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "app\\views\\shared\\_navigation_links.html.erb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-02T13:47:21.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T13:47:21.987Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "app\\views\\pages\\manager.html.erb",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T18:46:18.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:46:18.043Z"
             },
             {
               "$type": "Document",
@@ -238,8 +227,7 @@
               "RelativeToolTip": "app\\views\\pages\\home.html.erb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-20T18:41:58.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:41:58.24Z"
             },
             {
               "$type": "Document",
@@ -251,8 +239,7 @@
               "RelativeToolTip": "app\\controllers\\pages_controller.rb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGySURBVDhPY6AI/P//H8qiEdi7dy/TgS1bhKBc4sG57m7jR4GBE99raz/\u002BJiHx7Zmb26LzHR36UGnsYM\u002BevSyz02fWvTUwePCXhQXkORT8h43t/ytLy6MHq3MCoVpQQXD1w25Gj7//ww2W/3/KIYVhwGcOhv81Ycz/hRbw/knelBYL1QYBae23k1i9//xn8ACqBWJ\u002Bl/f/pypk///DyPz/DxPj/8X2bP\u002Blp7L9Z1gGwQLLRX8UbC52AellLJ901WbWAeU977\u002Bxs4NNQwJpgrMZfpiUMiyS/A4VQQApZskvGTypFkwM/xm\u002BCnD9fgUVhwNGhn8MESHLGKLNvgPZmODjv488D/48NGDqzNc\u002BX\u002BR\u002Bw9RI/t0pqBwYuKvtZHBQPMDgyvOLIYIPGApIQIRJ5GsiT5z3PP/ZS6FCDAxrNx9icyt\u002BtpjJ899/Js8//89sMfr//zwwAIH4\u002BWmG/0IrWMH\u002BV1yl9rB6a60uVBsmiGu6VxJXtQKuGYZn7WP6b7TG7Oz0HTMkoUrBAJv3GHbv2iLDx/aUHxgOjCyMn1mYGP8w/fz/ifXNb6tL3i5\u002BmCE6lAEDAwDI9sdswhE0wAAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-12-20T18:40:29.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:40:29.005Z"
             },
             {
               "$type": "Document",
@@ -264,8 +251,7 @@
               "RelativeToolTip": "config\\routes.rb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGySURBVDhPY6AI/P//H8qiEdi7dy/TgS1bhKBc4sG57m7jR4GBE99raz/\u002BJiHx7Zmb26LzHR36UGnsYM\u002BevSyz02fWvTUwePCXhQXkORT8h43t/ytLy6MHq3MCoVpQQXD1w25Gj7//ww2W/3/KIYVhwGcOhv81Ycz/hRbw/knelBYL1QYBae23k1i9//xn8ACqBWJ\u002Bl/f/pypk///DyPz/DxPj/8X2bP\u002Blp7L9Z1gGwQLLRX8UbC52AellLJ901WbWAeU977\u002Bxs4NNQwJpgrMZfpiUMiyS/A4VQQApZskvGTypFkwM/xm\u002BCnD9fgUVhwNGhn8MESHLGKLNvgPZmODjv488D/48NGDqzNc\u002BX\u002BR\u002Bw9RI/t0pqBwYuKvtZHBQPMDgyvOLIYIPGApIQIRJ5GsiT5z3PP/ZS6FCDAxrNx9icyt\u002BtpjJ899/Js8//89sMfr//zwwAIH4\u002BWmG/0IrWMH\u002BV1yl9rB6a60uVBsmiGu6VxJXtQKuGYZn7WP6b7TG7Oz0HTMkoUrBAJv3GHbv2iLDx/aUHxgOjCyMn1mYGP8w/fz/ifXNb6tL3i5\u002BmCE6lAEDAwDI9sdswhE0wAAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-12-20T18:39:30.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T18:39:30.519Z"
             }
           ]
         }
