@@ -2,3 +2,4 @@
 <% @stages.each do |stage| %>
   <%= link_to stage, exam_stage_path(stage: stage) %><br>
 <% end %>
+<%= render 'shared/navigation_links' %>

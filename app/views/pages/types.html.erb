@@ -2,3 +2,4 @@
 <% @levels.each do |level| %>
   <%= link_to level, exam_level_path(stage: @stage, type: @type, level: level) %><br>
 <% end %>
+<%= render 'shared/navigation_links' %>
