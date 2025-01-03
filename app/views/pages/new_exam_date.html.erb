@@ -1,0 +1,22 @@
+<h1>Registrar Datas e Disciplinas</h1>
+
+<%= form_with url: exam_dates_path, method: :post, local: true do |form| %>
+  <div class="form-group">
+    <%= form.label :grade, "Aplicação" %>
+    <%= form.select :grade, @grades, { include_blank: "Selecione" }, class: 'form-control' %>
+  </div>
+
+  <div class="form-group">
+    <%= form.label :date, "Data" %>
+    <%= form.date_field :date, class: 'form-control' %>
+  </div>
+
+  <div class="form-group">
+    <%= form.label :subjects, "Disciplinas" %>
+    <%= form.text_field :subjects, placeholder: "Separe com vírgulas (ex: Matemática, Ciências)", class: 'form-control' %>
+  </div>
+
+  <%= form.submit "Salvar", class: 'btn btn-success' %>
+<% end %>
+
+<%= render 'shared/navigation_links' %>

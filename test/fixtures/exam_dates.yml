@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  grade: MyString
+  date: 2025-01-03
+  subjects: MyText
+
+two:
+  grade: MyString
+  date: 2025-01-03
+  subjects: MyText

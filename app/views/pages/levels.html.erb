@@ -1,20 +1,22 @@
-
-
-
-<h3>Choose Date for <%= @level %> - <%= @type %> - <%= @stage %></h3>
-<ul>
-  <% @dates.each do |date| %>
-    <% if @subjects[date].present? %>
-      <li>
-        <%= link_to date.strftime('%d/%m/%Y'), exam_schedule_path(stage: @stage, type: @type, level: @level, date: date) %>
-        <ul>
-          <% @subjects[date].each do |subject| %>
-            <li><%= subject[:name] %></li>
+<tbody>
+  <% @grades.each_with_index do |grade, index| %>
+    <tr>
+      <td><%= grade %></td>
+      <td>
+        <%= link_to I18n.l(@dates[index].to_date, locale: :'pt-BR'), 
+                    exam_schedule_path(stage: @stage, type: @type, level: @level, date: @dates[index]) %>
+      </td>
+      <td>
+        <% if @subjects&.dig(index) %>
+          <% @subjects[index].each do |subject| %>
+            <%= subject %><br>
           <% end %>
-        </ul>
-      </li>
-    <% end %>
+        <% else %>
+          Sem disciplinas
+        <% end %>
+      </td>
+    </tr>
   <% end %>
-</ul>
+<%= link_to 'Registrar Datas e Disciplinas', new_exam_date_path, class: 'btn btn-primary' %>
 
-<%= render 'shared/navigation_links' %>
+</tbody>

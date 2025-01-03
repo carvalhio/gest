@@ -1,8 +1,6 @@
 ﻿<h3>Testes <%= @date.to_date %> - <%= @level %> - <%= @type %> - <%= @stage %></h3>
-
 <table class="table compact-columns">
   <thead>
-    <h4><%@level</h4>
     <tr>
       <th scope="col" class="col-small">Comp. Curricular</th>
       <th scope="col" class="col-small">Professor</th>
@@ -11,13 +9,13 @@
     </tr>
   </thead>
   <tbody>
-     <% @subjects.each do |subject| %>
-    <tr>
-      <td><%= subject[:name] %></td>  
-      <td><%= subject[:professor] %></td>
-      <td><%= subject[:shift] %></td>
-      <td><%= subject[:status] %></td>
-    </tr>
+    <% @subjects.each do |subject| %>
+      <tr>
+        <td><%= subject[:name] %></td>
+        <td><%= subject[:professor] %></td>
+        <td><%= subject[:shift] %></td>
+        <td><%= subject[:status] %></td>
+      </tr>
     <% end %>
   </tbody>
 </table>
@@ -31,7 +29,7 @@
     margin-left: 0; /* Aligns the table to the left */
   }
 
-  .compact-columns th, 
+  .compact-columns th,
   .compact-columns td {
     padding: 5px; /* Minimize padding */
     text-align: center; /* Center text for a cleaner look */
